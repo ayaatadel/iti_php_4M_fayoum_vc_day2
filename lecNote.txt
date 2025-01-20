@@ -31,4 +31,10 @@ git switch branchName ==> git push origin branchName
 ==> git satsh list
 ==> git satsh show
 ==> git satsh drpo idStash
+==============> create branch (x)==> step (master)
+  ========> bracnh (x)  ==> all commit in master
+
+  ==> new commit in master ==> commit ==> on master only
+  -===> switch (x)  => commit ==> on x only
+
 
