@@ -23,5 +23,6 @@ list all commit in one line ==> git log --oneline
                                       ==>   git switch branchName
 4- create branch and move to this branch ==> git switch -c branchName 
 
-
+5- push branches from local to remote ==> 
+git switch branchName ==> git push origin branchName 
 
