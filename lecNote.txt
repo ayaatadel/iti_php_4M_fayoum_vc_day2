@@ -3,7 +3,21 @@ working area ==> staging area==> git add .
 staging area=> local repo ==> git commit -m "message"
 local repo ==> remote repo
 
+==> https://git-scm.com/book/en/v2/Appendix-C:-Git-Commands-Setup-and-Config
+
 ===> git amend   ===> update ==> commit ==> update 2 commit2 ==>   modification on commit 1 
 
 git config --global core.editor "code --wait"  ==> enable update git amend to vs code 
+==> append commit to last previous commit
+==> 
+
+
+================ branches ==> 
+1- list all branches ==> git branch 
+                        git branch --all
+2- create branch ==> git branch branchName
+
+3- move from branch to another branch ==> git checkout branchName
+
+
 
