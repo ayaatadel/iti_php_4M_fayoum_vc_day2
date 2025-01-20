@@ -38,3 +38,5 @@ git switch branchName ==> git push origin branchName
   -===> switch (x)  => commit ==> on x only
 
 
+==========================> redme file ===> mark down ==> text ==> tag
+                                       ===> mark up ==> tag ==> text  
