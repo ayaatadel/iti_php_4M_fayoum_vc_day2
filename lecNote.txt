@@ -26,3 +26,9 @@ list all commit in one line ==> git log --oneline
 5- push branches from local to remote ==> 
 git switch branchName ==> git push origin branchName 
 
+6- shashing ==> save updates on brach without commit or add to anable to move to another branch
+==> git satsh save
+==> git satsh list
+==> git satsh show
+==> git satsh drpo idStash
+
