@@ -5,3 +5,5 @@ local repo ==> remote repo
 
 ===> git amend   ===> update ==> commit ==> update 2 commit2 ==>   modification on commit 1 
 
+git config --global core.editor "code --wait"  ==> enable update git amend to vs code 
+
