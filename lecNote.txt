@@ -17,7 +17,9 @@ git config --global core.editor "code --wait"  ==> enable update git amend to vs
                         git branch --all
 2- create branch ==> git branch branchName
 
-3- move from branch to another branch ==> git checkout branchName
+3- move from branch to another branch ==> git checkout branchName , 
+                                      ==>   git switch branchName
+4- create branch and move to this branch ==> git switch -c branchName 
 
 
 
