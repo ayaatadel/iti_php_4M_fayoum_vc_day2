@@ -7,6 +7,11 @@ p{
     -ms-border-radius: 1px;
     -o-border-radius: 1px;
 }
+p{
+    text-shadow: none;
+    
+
+}
 pg{
     color: blue;
     text-align: left;
