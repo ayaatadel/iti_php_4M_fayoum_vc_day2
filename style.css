@@ -1,8 +1,20 @@
 p{
+    text-align: center;
+    border-radius: 1px;
     color:red;
+    color:blue;
+    -webkit-border-radius: 1px;
+    -moz-border-radius: 1px;
+    -ms-border-radius: 1px;
+    -o-border-radius: 1px;
+}
+p{
+    text-shadow: none;
+    
+
 }
 pg{
     color: blue;
-    text-align: center;
+    text-align: left;
     padding: 5px;
 }

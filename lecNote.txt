@@ -24,6 +24,11 @@ list all commit in one line ==> git log --oneline
 4- create branch and move to this branch ==> git switch -c branchName 
 4- get checkout Head~
 
+6- shashing ==> save updates on brach without commit or add to anable to move to another branch
+==> git satsh save
+==> git satsh list
+==> git satsh show
+==> git satsh drpo idStash
 ==============> create branch (x)==> step (master)
   ========> bracnh (x)  ==> all commit in master
 
