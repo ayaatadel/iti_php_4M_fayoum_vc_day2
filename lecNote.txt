@@ -10,14 +10,18 @@ local repo ==> remote repo
 git config --global core.editor "code --wait"  ==> enable update git amend to vs code 
 ==> append commit to last previous commit
 ==> 
-
+============================>
+list all commits ==> git log
+list all commit in one line ==> git log --oneline
 
 ================ branches ==> 
 1- list all branches ==> git branch 
                         git branch --all
 2- create branch ==> git branch branchName
 
-3- move from branch to another branch ==> git checkout branchName
+3- move from branch to another branch ==> git checkout branchName , 
+                                      ==>   git switch branchName
+4- create branch and move to this branch ==> git switch -c branchName 
 4- get checkout Head~
 
 ==============> create branch (x)==> step (master)
@@ -25,5 +29,12 @@ git config --global core.editor "code --wait"  ==> enable update git amend to vs
 
   ==> new commit in master ==> commit ==> on master only
   -===> switch (x)  => commit ==> on x only
+5- push branches from local to remote ==> 
+git switch branchName ==> git push origin branchName 
 
+6- shashing ==> save updates on brach without commit or add to anable to move to another branch
+==> git satsh save
+==> git satsh list
+==> git satsh show
+==> git satsh drpo idStash
 
