@@ -20,4 +20,10 @@ git config --global core.editor "code --wait"  ==> enable update git amend to vs
 3- move from branch to another branch ==> git checkout branchName
 
 
+==============> create branch (x)==> step (master)
+  ========> bracnh (x)  ==> all commit in master
+
+  ==> new commit in master ==> commit ==> on master only
+  -===> switch (x)  => commit ==> on x only
+
 
