@@ -1,3 +1,7 @@
 un tracked files ==> working area
 working area ==> staging area==> git add .
-staging area=> git commit -m "message"
+staging area=> local repo ==> git commit -m "message"
+local repo ==> remote repo
+
+===> git amend   ===> update ==> commit ==> update 2 commit2 ==>   modification on commit 1 
+
