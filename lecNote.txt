@@ -10,7 +10,9 @@ local repo ==> remote repo
 git config --global core.editor "code --wait"  ==> enable update git amend to vs code 
 ==> append commit to last previous commit
 ==> 
-
+============================>
+list all commits ==> git log
+list all commit in one line ==> git log --oneline
 
 ================ branches ==> 
 1- list all branches ==> git branch 
