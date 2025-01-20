@@ -18,7 +18,7 @@ git config --global core.editor "code --wait"  ==> enable update git amend to vs
 2- create branch ==> git branch branchName
 
 3- move from branch to another branch ==> git checkout branchName
-
+4- get checkout Head~
 
 ==============> create branch (x)==> step (master)
   ========> bracnh (x)  ==> all commit in master
